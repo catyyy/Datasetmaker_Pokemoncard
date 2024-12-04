@@ -1,0 +1,5 @@
+0 Name
+1 Pic
+2 HP
+3 Type
+4 Skill
